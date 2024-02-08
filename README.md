@@ -1,4 +1,6 @@
 # BACK-END 💚
+![](https://img.comunidades.net/col/colegiodompedropitanga/BRASAOAZUL.png)
+
 _Boas Vindas ao meu perfil_
 
 Meu nome é João Gabriel.
